@@ -1,9 +1,9 @@
-### NLW Return from RocketSeat - MOBILE
+## NLW Return from RocketSeat - MOBILE
 
-## Libs
+### Libs
 - Expo (Base)
 
-## Commands
+### Commands
 ```
 npm i g expo-cli // install globally expo resources
 
