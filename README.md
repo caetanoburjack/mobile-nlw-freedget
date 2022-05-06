@@ -27,4 +27,6 @@ expo install react-native-view-shot
 
 npm install axios
 
+expo install expo-file-system
+
 ```
