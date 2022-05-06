@@ -17,5 +17,14 @@ npm i --save phosphor-react-native
 
 expo install react-native-svg
 
+npm install react-native-iphone-x-helper
+
+expo install @gorhom/bottom-sheet^4
+
+expo install react-native-reanimated
+
+expo install react-native-view-shot
+
+npm install axios
 
 ```
